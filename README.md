@@ -2,7 +2,6 @@
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
 <h2 align="left">About me</h2>
-<br>
 <p align="left">
 EN
 </p>
@@ -17,7 +16,6 @@ ES Programadaor enfocado en el desarrollo Backend, con conocimiento y experienci
 
 - 📫 How to reach me **juansalasprogrammer@gmail.com**
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan-salas-594266254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-salas-594266254" height="30" width="40" /></a>
@@ -25,7 +23,6 @@ ES Programadaor enfocado en el desarrollo Backend, con conocimiento y experienci
 <a href="https://twitter.com/arquitectonomad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arquitectonomad" height="30" width="40" /></a>
 </p>
 
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
