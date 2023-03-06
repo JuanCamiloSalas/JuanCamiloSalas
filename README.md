@@ -10,7 +10,7 @@ ES Programadaor enfocado en el desarrollo Backend, con conocimiento y experienci
 </p>
 
 
-- 🔭 I’m currently working on [codeCuak project](https://github.com/EmirAbraham/backend)
+- 🔭 I’m currently working on [**codeCuak project**](https://github.com/EmirAbraham/backend) at [Henry](https://www.linkedin.com/school/henryok/)
 
 - 🌱 I’m currently learning [**TypeScript**](https://github.com/JuanCamiloSalas/TypeScript_Practice) and [**Socket.io**](https://github.com/JuanCamiloSalas/Socket.io_Practice)
 
