@@ -12,7 +12,7 @@ ES Programadaor enfocado en el desarrollo Backend, con conocimiento y experienci
 
 - 🔭 I’m currently working on [codeCuak project](https://github.com/EmirAbraham/backend)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning [**TypeScript**](https://github.com/JuanCamiloSalas/TypeScript_Practice) and [Socket.io](https://github.com/JuanCamiloSalas/Socket.io_Practice)
 
 - 📫 How to reach me **juansalasprogrammer@gmail.com**
 
