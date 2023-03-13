@@ -13,7 +13,7 @@ Con mi stack de habilidades duras y blandas, me considero un activo valioso para
 
 - 🌱 I’m currently learning [**TypeScript**](https://github.com/JuanCamiloSalas/TypeScript_Practice) and [**Socket.io**](https://github.com/JuanCamiloSalas/Socket.io_Practice)
 
-- 📫 How to reach me **juansalasprogrammer@gmail.com**
+- 📫 How to <a href = "juansalasprogrammer@gmail.com">reach me</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
