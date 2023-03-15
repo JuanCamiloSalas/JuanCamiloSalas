@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Salas</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <h2 align="left">About me</h2>
 <p>
