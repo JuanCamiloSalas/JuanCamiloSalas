@@ -3,11 +3,11 @@
 
 <h2 align="left">About me</h2>
 <p>
-Soy un desarrollador backend altamente capacitado con experiencia en el despliegue de APIS en Node.js, autenticación, bases de datos relacionales y documentación de proyectos. Tengo experiencia en el trabajo en equipo bajo metodologías ágiles como SCRUM.
+Soy desarrollador de software orientado al back-end graduado de la academia online Henry, Buenos Aires; Argentina, y arquitecto de la Universidad de La Salle, Bogotá; Colombia. 
 <p>
-Estoy comprometido a mantenerme actualizado en las últimas tendencias y tecnologías del sector, y me esfuerzo por mejorar continuamente mis habilidades técnicas. Además, siempre busco aprender y crecer como profesional en este apasionante campo.
+Empecé en el mundo de la programación cuando descubrí que eso del código estaba al alcance de cualquier persona (Cómo me hubiese gustado que alguien me mostrara este maravilloso mundo antes), así que comencé a estudiar y hasta ahora sigo fascinado de todo lo que estoy aprendiendo.
 <p>
-Con mi stack de habilidades duras y blandas, me considero un activo valioso para cualquier equipo de desarrollo que busque un profesional con habilidades técnicas sólidas, un fuerte compromiso con el trabajo en equipo y un enfoque continuo en el aprendizaje y el crecimiento profesional.
+Llevo ya más de 6 meses programando y he logrado un stack de habilidades duras y blandas, con las cuales me considero un activo valioso para cualquier equipo de desarrollo que busque un profesional con habilidades técnicas sólidas, un fuerte compromiso con el trabajo en equipo y un enfoque continuo en el aprendizaje y el crecimiento profesional.
 
 - 🔭 I’m currently working on [**codeCuak project**](https://github.com/EmirAbraham/backend) at [Henry](https://www.linkedin.com/school/henryok/)
 
