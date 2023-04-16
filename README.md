@@ -11,7 +11,7 @@ Llevo ya más de 6 meses programando y he logrado un stack de habilidades duras 
 
 - 🔭 I’m currently working on [**codeCuak project**](https://github.com/EmirAbraham/backend) at [Henry](https://www.linkedin.com/school/henryok/)
 
-- 🌱 I’m currently learning [**TypeScript**](https://github.com/JuanCamiloSalas/TypeScript_Practice) and [**Socket.io**](https://github.com/JuanCamiloSalas/Socket.io_Practice)
+- 🌱 I’m currently learning [**TypeScript**](https://github.com/JuanCamiloSalas/TypeScript_Practice).
 
 - 📫 How to <a href = "mailto:juansalasprogrammer@gmail.com?subject = Hi Juan&body = Message">**reach me**</a>
 
