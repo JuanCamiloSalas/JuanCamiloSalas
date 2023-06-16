@@ -7,7 +7,7 @@ Soy desarrollador de software orientado al back-end graduado de la academia onli
 <p>
 Empecé en el mundo de la programación cuando descubrí que eso del código estaba al alcance de cualquier persona (Cómo me hubiese gustado que alguien me mostrara este maravilloso mundo antes), así que comencé a estudiar y hasta ahora sigo fascinado de todo lo que estoy aprendiendo.
 <p>
-Llevo ya más de 6 meses programando y he logrado un stack de habilidades duras y blandas, con las cuales me considero un activo valioso para cualquier equipo de desarrollo que busque un profesional con habilidades técnicas sólidas, un fuerte compromiso con el trabajo en equipo y un enfoque continuo en el aprendizaje y el crecimiento profesional.
+Llevo ya más de 9 meses programando y he logrado un stack de habilidades duras y blandas, con las cuales me considero un activo valioso para cualquier equipo de desarrollo que busque un profesional con habilidades técnicas sólidas, un fuerte compromiso con el trabajo en equipo y un enfoque continuo en el aprendizaje y el crecimiento profesional.
 
 - 🔭 I’m currently working on [**codeCuak project**](https://github.com/EmirAbraham/backend) at [Henry](https://www.linkedin.com/school/henryok/)
 
