@@ -5,9 +5,7 @@
 <p>
 Soy desarrollador de software orientado al back-end graduado de la academia online Henry, Buenos Aires; Argentina, y arquitecto de la Universidad de La Salle, Bogotá; Colombia. 
 <p>
-Empecé en el mundo de la programación cuando descubrí que eso del código estaba al alcance de cualquier persona, y que a su vez, ofrecía un mundo de posibilidades de crecimiento profesional increíbles, así que comencé a estudiar y hasta ahora sigo fascinado de todo lo que estoy aprendiendo.
-<p>
-Llevo ya 1 año programando y he logrado un stack de habilidades duras y blandas, con las cuales me considero un activo valioso para cualquier equipo de desarrollo que busque un profesional con habilidades técnicas sólidas, un fuerte compromiso con el trabajo en equipo y un enfoque continuo en el aprendizaje y el crecimiento profesional.
+Tengo 1 año programando y he logrado un stack de habilidades duras y blandas, con las cuales me considero un activo valioso para cualquier equipo de desarrollo que busque un profesional con habilidades técnicas sólidas, un fuerte compromiso con el trabajo en equipo y un enfoque continuo en el aprendizaje y el crecimiento profesional.
 
 - 📫 How to <a href = "mailto:juansalasprogrammer@gmail.com?subject = Hi Juan&body = Message">**reach me**</a>
 
