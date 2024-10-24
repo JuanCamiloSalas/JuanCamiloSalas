@@ -4,7 +4,7 @@
 ## About Me
 I am a **backend software developer**, passionate about creating and deploying applications that deliver value and solutions to both individuals and businesses. I am excited to work on **process automation** and **improving efficiency** in the projects I participate in.
 
-Currently, I am focusing on my development towards a **DevOps** role, exploring areas such as **application containerization** (using Docker and Kubernetes), **cloud deployment** (AWS, GCP), and **infrastructure as code** (IaC) with tools like Terraform and Ansible. My goal is to combine backend development with DevOps best practices to create robust and scalable solutions.
+Currently, I am focusing on my development towards a **DevOps** role, exploring areas such as **application containerization** (using Docker and Kubernetes), **cloud deployment** (AWS), and **infrastructure as code** (IaC) with tools like Terraform and Ansible. My goal is to combine backend development with DevOps best practices to create robust and scalable solutions.
 
 - 📫 How to <a href = "mailto:juansalasprogrammer@gmail.com?subject = Hi Juan&body = Message">**reach me**</a>
 <br>
