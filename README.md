@@ -23,13 +23,13 @@ Currently, I am focusing on my development towards a **DevOps** role, exploring 
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=JuanCamiloSalas&theme=dracula&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" />
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=JuanCamiloSalas&theme=dracula&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=JuanCamiloSalas&layout=compact&show_icons=true&title_color=9f9f9f&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&theme=dracula" />
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=JuanCamiloSalas&layout=compact&show_icons=true&title_color=ffffff&text_color=9f9f9f&hide_border=true&icon_color=00000000&count_private=true&theme=dracula" />
     </td>
   </tr>
 </table>
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juancamilosalas&label=Profile%20views6&style=for-the-badge" alt="juancamilosalas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juancamilosalas&label=Profile%20views&style=for-the-badge" alt="juancamilosalas" /> </p>
