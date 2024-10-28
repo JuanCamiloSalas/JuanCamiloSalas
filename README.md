@@ -6,13 +6,15 @@ I am a **backend software developer**, passionate about creating and deploying a
 
 Currently, I am focusing on my development towards a **DevOps** role, exploring areas such as **application containerization** (using Docker and Kubernetes), **cloud deployment** (AWS), and **infrastructure as code** (IaC) with tools like Terraform and Ansible. My goal is to combine backend development with DevOps best practices to create robust and scalable solutions.
 
-- 📫 How to <a href = "mailto:juansalasprogrammer@gmail.com?subject = Hi Juan&body = Message">**reach me**</a>
 <br>
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/juan-salas-developer/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-grey?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/juansalasprogra1)
 [![Twitter](https://img.shields.io/badge/Follow-black?logo=x&style=for-the-badge)](https://twitter.com/arquitectonomad)
+[![Email](https://img.shields.io/badge/Email_Me-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:juansalasprogrammer@gmail.com?subject=Hi%20Juan&body=Message)
+
+
 <br><br>
 
 ## Languages and Tools:
