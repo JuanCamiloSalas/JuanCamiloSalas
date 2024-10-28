@@ -14,12 +14,12 @@ Currently, I am focusing on my development towards a **DevOps** role, exploring 
 [![Twitter](https://img.shields.io/badge/Follow-black?logo=x&style=for-the-badge)](https://twitter.com/arquitectonomad)
 [![Email](https://img.shields.io/badge/Email_Me-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:juansalasprogrammer@gmail.com?subject=Hi%20Juan&body=Message)
 
-
-<br><br>
+<br>
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,git,nodejs,express,react,js,ts,html,css)](https://skillicons.dev)
-<br><br>
+
+<br>
 
 ## Statistics
 <table>
@@ -34,4 +34,5 @@ Currently, I am focusing on my development towards a **DevOps** role, exploring 
 </table>
 
 <br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juancamilosalas&label=Profile%20views&style=for-the-badge" alt="juancamilosalas" /> </p>
