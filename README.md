@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Salas</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Backend Developer & DevOps</h3>
 
 ## About Me
 I am a **backend software developer**, passionate about creating and deploying applications that deliver value and solutions to both individuals and businesses. I am excited to work on **process automation** and **improving efficiency** in the projects I participate in.
