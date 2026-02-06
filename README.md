@@ -9,7 +9,7 @@ Currently, I am focusing on my development towards a **DevOps** role, exploring 
 <br>
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/juan-salas-developer/](https://www.linkedin.com/in/juan-camilo-salas/?locale=en-US))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/juan-camilo-salas/?locale=en-US)
 [![HackerRank](https://img.shields.io/badge/HackerRank-grey?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/juansalasprogra1)
 [![Twitter](https://img.shields.io/badge/Follow-black?logo=x&style=for-the-badge)](https://twitter.com/arquitectonomad)
 [![Email](https://img.shields.io/badge/Email_Me-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:juansalasprogrammer@gmail.com?subject=Hi%20Juan&body=Message)
